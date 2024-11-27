@@ -1,9 +1,7 @@
 ## Welcome, 👋
 I'm Philipp Roser, physicist by day, software developer by night, based in Bellingham, WA, USA.
 
-More details to follow soon.
-
-Here you can find my [personal website](https://philipp-roser.github.io) (still in development)
+More details to follow soon. In the meantime, visit my [personal website](https://philipp-roser.github.io) (still in development)
 
 
 
