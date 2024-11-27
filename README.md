@@ -3,8 +3,7 @@ I'm Philipp Roser, physicist by day, software developer by night, based in Belli
 
 More details to follow soon.
 
-Here you can find my [personal website](https://Not.A.Valid.Link) (actually, not yet, but soon).
-
+Here you can find my [personal website](https://philipp-roser.github.io) (still in development)
 
 
 
